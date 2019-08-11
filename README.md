@@ -148,7 +148,7 @@ http://emoticon.gitx.fun/packages/V2%20日常.zip
 
 `虚拟偶像` `64 张`
 
-原作者 [ぽむ - Pixiv](https://www.pixiv.net/member.php?id=2302136)，该表情包另有中文汉化版本。
+作者为 `joynet` 所属的画师 [ぽむ - Pixiv](https://www.pixiv.net/member.php?id=2302136)，来源于 `LINE`，该表情包另有中文汉化版本。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -265,7 +265,7 @@ http://emoticon.gitx.fun/packages/天使降临到了我的身边.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/00Bison%20仓鼠4.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/005.png) |
+| ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/004.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/005.png) |
 
 #### 表情包下载
 
@@ -549,7 +549,7 @@ http://emoticon.gitx.fun/packages/猥琐萌.zip
 
 `原创人物` `120 张`
 
-七濑胡桃的原版表情包。
+七濑胡桃的原版表情包，作者为 `joynet` 所属的画师 [ぽむ - Pixiv](https://www.pixiv.net/member.php?id=2302136)，来源于 `LINE`。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -725,7 +725,7 @@ http://emoticon.gitx.fun/packages/Doge.zip
 
 `原创人物` `121 张`
 
-七濑胡桃的汉化版本，作者为绯色天空。
+七濑胡桃的汉化版本，汉化作者为绯色天空，原作者为 `joynet` 所属的画师 [ぽむ - Pixiv](https://www.pixiv.net/member.php?id=2302136)，原版贴图来源于 `LINE`。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -857,6 +857,10 @@ MD5 校验 `45ddf978f89b3fcb69d4716a72bd52c4`
 ## 交流群组
 
 > 别指望这是一个正常的群组，这就是一个沙雕网友斗图聚集地
+
+QQ 莫名抽风降低了群星级，搜不到...已提起申述，暂时请通过 [点击查看二维码](http://emoticon.gitx.fun/images/images/group_qq.jpg) 加群
+
+或者通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF) 方式加群
 
 QQ 群号 `146437342` （千人群，已有 400+ 成员）
 
