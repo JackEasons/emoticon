@@ -13,7 +13,7 @@
 - 特别感谢
 - 交流群组
 - 开源执照
- 
+
 ## 表情包列表
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) ARU
@@ -80,20 +80,20 @@ http://emoticon.gitx.fun/packages/ISLAND.zip
 http://emoticon.gitx.fun/packages/JK%20制服.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Oniichan wa Oshimai
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 别当欧尼酱了
 
 `漫画` `115 张`
 
-中文名为别当欧尼酱了，该漫画连载于 Pixiv 等平台，目前还在连载中，可以前往 [别当欧尼酱了- 布卡漫画](http://www.buka.cn/detail/221735) 了解。
+该漫画连载于 Pixiv 等平台，目前还在连载中，可以前往 [别当欧尼酱了- 布卡漫画](http://www.buka.cn/detail/221735) 了解。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/Oniichan%20wa%20Oshimai/001.png) | ![image](http://emoticon.gitx.fun/packages/Oniichan%20wa%20Oshimai/002.png) | ![image](http://emoticon.gitx.fun/packages/Oniichan%20wa%20Oshimai/003.png) | ![image](http://emoticon.gitx.fun/packages/Oniichan%20wa%20Oshimai/004.png) | ![image](http://emoticon.gitx.fun/packages/Oniichan%20wa%20Oshimai/005.png) |
+| ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/001.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/002.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/003.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/004.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/Oniichan%20wa%20Oshimai.zip
+http://emoticon.gitx.fun/packages/别当欧尼酱了.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Python 中文
@@ -257,20 +257,20 @@ http://emoticon.gitx.fun/packages/古明地觉.zip
 http://emoticon.gitx.fun/packages/天使降临到了我的身边.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小仓鼠
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Bison 仓鼠
 
 `原创人物` `120 张`
 
-作者未知。
+作者 [Bison 仓鼠 - 新浪微博](https://weibo.com/bisonbison)，感谢酷安 `六又七分之一` 告知来源。更多请前往 [Bison 仓鼠 - 萌娘百科](https://zh.moegirl.org/Bison%20仓鼠) 了解。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/小仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/小仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/小仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/小仓鼠/004.png) | ![image](http://emoticon.gitx.fun/packages/小仓鼠/005.png) |
+| ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/00Bison%20仓鼠4.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/小仓鼠.zip
+http://emoticon.gitx.fun/packages/Bison%20仓鼠.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小林家的龙女仆
@@ -497,6 +497,118 @@ http://emoticon.gitx.fun/packages/维基百科滥权.zip
 http://emoticon.gitx.fun/packages/贴吧大表情.zip
 ```
 
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 酷安小表情
+
+`社区文化` `363 张`
+
+[酷安](https://coolapk.com) 小表情。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/酷安小表情/001.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/002.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/003.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/004.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/酷安小表情.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 干嘛鸭
+
+`原创人物` `55 张`
+
+干嘛鸭，来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/干嘛鸭/001.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/002.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/003.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/004.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/干嘛鸭.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 猥琐萌
+
+`原创人物` `158 张`
+
+来源于 [pandecheng - 酷安](http://www.coolapk.com/u/531994) 收集，在各个社交平台都很火，我也蛮喜欢这个。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/猥琐萌/001.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/002.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/003.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/004.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/猥琐萌.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 七濑胡桃
+
+`原创人物` `120 张`
+
+七濑胡桃的原版表情包。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/七濑胡桃/001.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/002.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/003.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/004.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/七濑胡桃.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 仓鼠
+
+`原创人物` `99 张`
+
+仓鼠表情包，来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/004.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/仓鼠.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 涂鸦 Emoji
+
+`原创人物` `25 张`
+
+涂鸦 Emoji 表情包，来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/001.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/002.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/003.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/004.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/涂鸦%20Emoji.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 呆萌小人
+
+`原创人物` `58 张`
+
+呆萌小人表情包，来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/呆萌小人/001.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/002.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/003.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/004.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/呆萌小人.zip
+```
+
 ## 客户端下载
 
 > 请注意，由于个人原因，于 2018 年 8 月将客户端从酷安平台下架，到目前为止依旧处于停止维护状态
@@ -558,4 +670,4 @@ QQ 群号 `146437342` （千人群，已有 400+ 成员）
 若有事情需要联系我，您可以通过以下平台。
 
 - 酷安 [KallyDev](http://www.coolapk.com/u/926055)
-- GitHub [KallyDev](http://www.coolapk.com/u/kallydev)
+- GitHub [KallyDev](https://github.com/kallydev)
