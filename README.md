@@ -194,7 +194,7 @@ http://emoticon.gitx.fun/packages/什么时间了.zip
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 兽耳酱
 
-`动漫` `240 张`
+`动漫` `354 张`
 
 原作者 [ながユー - Pixiv](https://www.pixiv.net/member.php?id=2509595)。
 
@@ -339,7 +339,7 @@ http://emoticon.gitx.fun/packages/机场.zip
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 熊猫人
 
-`原创人物` `44 张`
+`原创人物` `196 张`
 
 该表情包过于沙雕。
 
@@ -607,6 +607,214 @@ http://emoticon.gitx.fun/packages/涂鸦%20Emoji.zip
 
 ```text
 http://emoticon.gitx.fun/packages/呆萌小人.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 假笑男孩
+
+`公众人物` `104 张`
+
+群友提供，来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/假笑男孩/001.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/002.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/003.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/004.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/假笑男孩.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 商业头盔
+
+`原创人物` `144 张`
+
+网络流传，来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/商业头盔/001.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/002.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/003.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/004.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/商业头盔.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 嗷大喵
+
+`漫画` `40 张`
+
+作者 [慕容嗷嗷 - 百度百科](https://baike.baidu.com/item/慕容嗷嗷)，漫画 《嗷大喵真棒》里的主人公。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/嗷大喵/001.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/002.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/003.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/004.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/嗷大喵.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 嘤嘤怪
+
+`原创人物` `99 张`
+
+由 [pandecheng - 酷安](http://www.coolapk.com/u/531994) 高清重制，嘤嘤嘤。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/001.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/002.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/003.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/004.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/嘤嘤怪.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 微博小表情
+
+`原创人物` `113 张`
+
+来源于 [新浪微博](https://www.weibo.com/)。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/微博小表情/001.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/002.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/003.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/004.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/微博小表情.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 突然 XX
+
+`原创人物` `60 张`
+
+作者未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/突然%20XX/001.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/002.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/003.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/004.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/突然%20XX.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Doge
+
+`原创人物` `42 张`
+
+Doge 的原型为一只柴犬（我可能是在写废话），在国内国外这表情包都很火。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/Doge/001.png) | ![image](http://emoticon.gitx.fun/packages/Doge/002.png) | ![image](http://emoticon.gitx.fun/packages/Doge/003.png) | ![image](http://emoticon.gitx.fun/packages/Doge/004.png) | ![image](http://emoticon.gitx.fun/packages/Doge/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/Doge.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 七濑胡桃汉化
+
+`原创人物` `121 张`
+
+七濑胡桃的汉化版本，作者为绯色天空。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/001.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/002.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/003.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/004.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/七濑胡桃汉化.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 冷兔大表情
+
+`原创人物` `48 张`
+
+讲冷笑话的兔子，可以前往 [冷兔 - 百度百科](https://baike.baidu.com/item/冷兔) 了解。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/冷兔大表情/001.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/002.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/003.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/004.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/冷兔大表情.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 可你也不能
+
+`原创人物` `48 张`
+
+来源未知。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/可你也不能/001.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/002.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/003.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/004.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/可你也不能.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小坏坏
+
+`原创人物` `58 张`
+
+由  [pandecheng - 酷安](http://www.coolapk.com/u/531994) 收集。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/小坏坏/001.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/002.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/003.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/004.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/小坏坏.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小婳
+
+`公众人物` `58 张`
+
+作者 [一只抽风的婳宝宝 - 新浪微博](https://www.weibo.com/u/1793060842)。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/小婳/001.png) | ![image](http://emoticon.gitx.fun/packages/小婳/002.png) | ![image](http://emoticon.gitx.fun/packages/小婳/003.png) | ![image](http://emoticon.gitx.fun/packages/小婳/004.png) | ![image](http://emoticon.gitx.fun/packages/小婳/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/小婳.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 披被子的滑稽
+
+`原创人物` `58 张`
+
+作者 [pandecheng - 酷安](http://www.coolapk.com/u/531994)。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/001.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/002.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/003.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/004.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/005.png) |
+
+#### 表情包下载
+
+```text
+http://emoticon.gitx.fun/packages/披被子的滑稽.zip
 ```
 
 ## 客户端下载
