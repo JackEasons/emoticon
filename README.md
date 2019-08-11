@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/contributors/kallydev/emoticon.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/kallydev/emoticon.svg?style=flat-square)
 
-网络表情数据包储存库
+网络表情数据包储存库，您可以通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF)  加入 QQ 群组（千人群，目前人数 400+）。
 
 - 表情包列表
 - **客户端下载**
@@ -858,7 +858,7 @@ MD5 校验 `45ddf978f89b3fcb69d4716a72bd52c4`
 
 > 别指望这是一个正常的群组，这就是一个沙雕网友斗图聚集地
 
-QQ 莫名抽风降低了群星级，搜不到...已提起申述，暂时请通过 [点击查看二维码](http://emoticon.gitx.fun/images/images/group_qq.jpg) 加群
+QQ 莫名抽风降低了群星级，搜不到...已提起申述，暂时请通过 [点击查看二维码](http://emoticon.gitx.fun/images/group_qq.jpg) 加群
 
 或者通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF) 方式加群
 
