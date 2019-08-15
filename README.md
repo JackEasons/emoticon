@@ -16,6 +16,150 @@
 
 ## 表情包列表
 
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 2233 娘
+
+`原创人物` `15 张`
+
+B 站的 2233 娘，俩姐妹 。具体见 [Bilibili 娘 - 萌娘百科](https://zh.moegirl.org/Bilibili娘)，来源于网友投稿。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/2233%20娘/001.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/002.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/003.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/004.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/2233%20娘.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 安排得明明白白
+
+`原创人物` `15 张`
+
+熊猫人被安排得明明白白系列，来源于网友推荐的 TG 贴图包。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/安排得明明白白/001.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/002.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/003.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/004.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/安排得明明白白.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 被采访的人
+
+`原创人物` `40 张`
+
+被采访的人，来于一位台湾网友推荐的 TG 贴图包。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/被采访的人/001.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/002.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/003.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/004.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/被采访的人.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 哔哩哔哩大表情
+
+`原创人物` `50 张`
+
+哔哩哔哩大表情，这款是大电视，下面有小一些的。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/001.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/002.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/003.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/004.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/哔哩哔哩大表情.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 哔哩哔哩小电视
+
+`原创人物` `15 张`
+
+哔哩哔哩小电视，也不算太小，放大处理过。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/001.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/002.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/003.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/004.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/哔哩哔哩小电视.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 聊不来
+
+`原创人物` `47 张`
+
+聊不来，人与人之间最大的代沟就是我在用 Chrome，你却在用 IE6。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/聊不来/001.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/002.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/003.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/004.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/聊不来.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 三连
+
+`原创人物` `24 张`
+
+素质三连，不多解释，来源于 TG。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/三连/001.png) | ![image](http://emoticon.gitx.fun/packages/三连/002.png) | ![image](http://emoticon.gitx.fun/packages/三连/003.png) | ![image](http://emoticon.gitx.fun/packages/三连/004.png) | ![image](http://emoticon.gitx.fun/packages/三连/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/三连.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 咸鱼
+
+`原创人物` `39 张`
+
+咸鱼
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/咸鱼/001.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/002.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/003.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/004.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/咸鱼.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 邻家索菲
+
+`动漫` `125 张`
+
+来源于动漫隔壁的吸血鬼美眉，详细见 [隔壁的吸血鬼美眉 - 萌娘百科](https://zh.moegirl.org/隔壁的吸血鬼美眉)。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/邻家索菲/001.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/002.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/003.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/004.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/邻家索菲.zip
+```
+
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) ARU
 
 `原创人物` `30 张`
@@ -110,22 +254,6 @@ http://emoticon.gitx.fun/packages/别当欧尼酱了.zip
 
 ```text
 http://emoticon.gitx.fun/packages/Python%20中文.zip
-```
-
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Q 版萝莉整合
-
-`动漫` `120 张`
-
-主要是还没整理好来源，这个包之后会拆分的。
-
-| 001 | 002 | 003 | 004 | 005 |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/Q%20版萝莉整合/001.png) | ![image](http://emoticon.gitx.fun/packages/Q%20版萝莉整合/002.png) | ![image](http://emoticon.gitx.fun/packages/Q%20版萝莉整合/003.png) | ![image](http://emoticon.gitx.fun/packages/Q%20版萝莉整合/004.png) | ![image](http://emoticon.gitx.fun/packages/Q%20版萝莉整合/005.png) |
-
-#### 表情包下载
-
-```text
-http://emoticon.gitx.fun/packages/Q%20版萝莉整合.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) V2 日常
@@ -243,7 +371,7 @@ http://emoticon.gitx.fun/packages/古明地觉.zip
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 天使降临到了我的身边
 
-`动漫` `72 张`
+`动漫` `192 张`
 
 动漫 [天使降临到了我的身边 - 哔哩哔哩](https://b23.tv/ep259653) 系列表情包。
 
