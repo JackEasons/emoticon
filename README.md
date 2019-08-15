@@ -7,12 +7,7 @@
 
 网络表情数据包储存库，您可以通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF)  加入 QQ 群组（千人群，目前人数 400+）。
 
-- 表情包列表
-- **客户端下载**
-- 参与项目
-- 特别感谢
-- 交流群组
-- 开源执照
+> 您可以通过 [**下载客户端**](https://github.com/kallydev/emoticon#%客户端下载) 在多个社交软件中快捷的发送表情。
 
 ## 表情包列表
 
@@ -30,6 +25,22 @@ B 站的 2233 娘，俩姐妹 。具体见 [Bilibili 娘 - 萌娘百科](https:/
 
 ```text
 https://emoticon.gitx.fun/packages/2233%20娘.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 咸鱼
+
+`原创人物` `39 张`
+
+咸鱼，相比咸鱼。我更倾向于鸽子，咕咕咕。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/咸鱼/001.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/002.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/003.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/004.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/咸鱼.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 安排得明明白白
@@ -126,22 +137,6 @@ https://emoticon.gitx.fun/packages/聊不来.zip
 
 ```text
 https://emoticon.gitx.fun/packages/三连.zip
-```
-
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 咸鱼
-
-`原创人物` `39 张`
-
-咸鱼
-
-| 001 | 002 | 003 | 004 | 005 |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/咸鱼/001.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/002.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/003.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/004.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/005.png) |
-
-#### 表情包下载
-
-```text
-https://emoticon.gitx.fun/packages/咸鱼.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 邻家索菲
