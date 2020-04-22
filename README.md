@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/contributors/kallydev/emoticon.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/kallydev/emoticon.svg?style=flat-square)
 
-网络表情数据包储存库，您可以通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF)  加入 QQ 群组（千人群，目前人数 400+）。
+网络表情数据包储存库，您可以通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF)  加入 QQ 群组（千人群，目前人数 580+）。欢迎在 [GitHub](https://github.com/kallydev/emoticon) 参与协作。
 
 > 您可以通过 [**下载客户端**](https://emoticon.gitx.fun/#客户端下载) 在多个社交软件中快捷的发送表情。
 
