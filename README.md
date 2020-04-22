@@ -43,6 +43,22 @@ https://emoticon.gitx.fun/packages/兔子.zip
 https://emoticon.gitx.fun/packages/和泉纱雾.zip
 ```
 
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 草莓果酱
+
+`公众人物` `26 张`
+
+草莓果酱系列，来源于万能的 Google 搜索。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/草莓果酱/001.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/002.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/003.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/004.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/草莓果酱.zip
+```
+
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 巴啦啦能量
 
 `原创人物` `58 张`
