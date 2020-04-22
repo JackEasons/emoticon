@@ -11,7 +11,39 @@
 
 ## 表情包列表
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 2233 娘
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 和泉纱雾
+
+`动漫` `211 张`
+
+动漫埃罗芒阿老师女主角，具体见 [和泉纱雾 - 萌娘百科](https://zh.moegirl.org/zh/和泉纱雾)，网友酷安 ID 朝朝暮暮丶投稿。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/和泉纱雾/001.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/002.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/003.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/004.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/和泉纱雾.zip
+```
+
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 巴啦啦能量
+
+`原创人物` `58 张`
+
+网友酷安 ID 朝朝暮暮丶投稿。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/001.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/002.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/003.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/004.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/005.png) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/巴啦啦能量.zip
+```
+
+### 2233 娘
 
 `原创人物` `15 张`
 
@@ -27,7 +59,7 @@ B 站的 2233 娘，俩姐妹 。具体见 [Bilibili 娘 - 萌娘百科](https:/
 https://emoticon.gitx.fun/packages/2233%20娘.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 咸鱼
+### 咸鱼
 
 `原创人物` `39 张`
 
@@ -43,7 +75,7 @@ https://emoticon.gitx.fun/packages/2233%20娘.zip
 https://emoticon.gitx.fun/packages/咸鱼.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 安排得明明白白
+### 安排得明明白白
 
 `原创人物` `15 张`
 
@@ -59,7 +91,7 @@ https://emoticon.gitx.fun/packages/咸鱼.zip
 https://emoticon.gitx.fun/packages/安排得明明白白.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 被采访的人
+### 被采访的人
 
 `原创人物` `40 张`
 
@@ -75,7 +107,7 @@ https://emoticon.gitx.fun/packages/安排得明明白白.zip
 https://emoticon.gitx.fun/packages/被采访的人.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 哔哩哔哩大表情
+### 哔哩哔哩大表情
 
 `原创人物` `50 张`
 
@@ -91,7 +123,7 @@ https://emoticon.gitx.fun/packages/被采访的人.zip
 https://emoticon.gitx.fun/packages/哔哩哔哩大表情.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 哔哩哔哩小电视
+### 哔哩哔哩小电视
 
 `原创人物` `15 张`
 
@@ -107,7 +139,7 @@ https://emoticon.gitx.fun/packages/哔哩哔哩大表情.zip
 https://emoticon.gitx.fun/packages/哔哩哔哩小电视.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 聊不来
+### 聊不来
 
 `原创人物` `47 张`
 
@@ -123,7 +155,7 @@ https://emoticon.gitx.fun/packages/哔哩哔哩小电视.zip
 https://emoticon.gitx.fun/packages/聊不来.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 三连
+### 三连
 
 `原创人物` `24 张`
 
@@ -139,7 +171,7 @@ https://emoticon.gitx.fun/packages/聊不来.zip
 https://emoticon.gitx.fun/packages/三连.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 邻家索菲
+### 邻家索菲
 
 `动漫` `125 张`
 
@@ -155,7 +187,7 @@ https://emoticon.gitx.fun/packages/三连.zip
 https://emoticon.gitx.fun/packages/邻家索菲.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) ARU
+### ARU
 
 `原创人物` `30 张`
 
@@ -171,7 +203,7 @@ ARU 表情包中文名为阿鲁，原作者为 [\_SiC\_ - 新浪微博](https://
 https://emoticon.gitx.fun/packages/ARU.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) GNU Linux
+### GNU Linux
 
 `图标` `30 张`
 
@@ -187,7 +219,7 @@ Geek 爱好者必备表情包之一，[GNU - 官网](https://www.gnu.org/) 为�
 http://emoticon.gitx.fun/packages/GNU%20Linux.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) ISLAND
+### ISLAND
 
 `动漫` `24 张`
 
@@ -203,7 +235,7 @@ ISLAND 是一款 AVG 游戏，有漫画及动画泛生作品，可以前往 [ISL
 http://emoticon.gitx.fun/packages/ISLAND.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) JK 制服
+### JK 制服
 
 `公众人物` `56 张`
 
@@ -219,7 +251,7 @@ http://emoticon.gitx.fun/packages/ISLAND.zip
 http://emoticon.gitx.fun/packages/JK%20制服.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 别当欧尼酱了
+### 别当欧尼酱了
 
 `漫画` `115 张`
 
@@ -235,7 +267,7 @@ http://emoticon.gitx.fun/packages/JK%20制服.zip
 http://emoticon.gitx.fun/packages/别当欧尼酱了.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Python 中文
+### Python 中文
 
 `社区文化` `30 张`
 
@@ -251,7 +283,7 @@ http://emoticon.gitx.fun/packages/别当欧尼酱了.zip
 http://emoticon.gitx.fun/packages/Python%20中文.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) V2 日常
+### V2 日常
 
 `社区文化` `31 张`
 
@@ -267,7 +299,7 @@ http://emoticon.gitx.fun/packages/Python%20中文.zip
 http://emoticon.gitx.fun/packages/V2%20日常.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 七濑胡桃 Q 版
+### 七濑胡桃 Q 版
 
 `虚拟偶像` `64 张`
 
@@ -283,7 +315,7 @@ http://emoticon.gitx.fun/packages/V2%20日常.zip
 http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 乖宝宝
+### 乖宝宝
 
 `原创人物` `107 张`
 
@@ -299,7 +331,7 @@ http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版.zip
 http://emoticon.gitx.fun/packages/乖宝宝.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 什么时间了
+### 什么时间了
 
 `社区文化` `12  张`
 
@@ -315,7 +347,7 @@ http://emoticon.gitx.fun/packages/乖宝宝.zip
 http://emoticon.gitx.fun/packages/什么时间了.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 兽耳酱
+### 兽耳酱
 
 `动漫` `354 张`
 
@@ -332,7 +364,7 @@ http://emoticon.gitx.fun/packages/什么时间了.zip
 http://emoticon.gitx.fun/packages/兽耳酱.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 刷机信仰
+### 刷机信仰
 
 `图标` `92 张`
 
@@ -348,7 +380,7 @@ http://emoticon.gitx.fun/packages/兽耳酱.zip
 http://emoticon.gitx.fun/packages/刷机信仰.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 古明地觉
+### 古明地觉
 
 `动漫` `20 张`
 
@@ -364,7 +396,7 @@ http://emoticon.gitx.fun/packages/刷机信仰.zip
 http://emoticon.gitx.fun/packages/古明地觉.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 天使降临到了我的身边
+### 天使降临到了我的身边
 
 `动漫` `192 张`
 
@@ -380,7 +412,7 @@ http://emoticon.gitx.fun/packages/古明地觉.zip
 http://emoticon.gitx.fun/packages/天使降临到了我的身边.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Bison 仓鼠
+### Bison 仓鼠
 
 `原创人物` `120 张`
 
@@ -396,7 +428,7 @@ http://emoticon.gitx.fun/packages/天使降临到了我的身边.zip
 http://emoticon.gitx.fun/packages/Bison%20仓鼠.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小林家的龙女仆
+### 小林家的龙女仆
 
 `动漫` `120 张`
 
@@ -412,7 +444,7 @@ http://emoticon.gitx.fun/packages/Bison%20仓鼠.zip
 http://emoticon.gitx.fun/packages/小林家的龙女仆.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 干物妹小埋
+### 干物妹小埋
 
 `动漫` `36 张`
 
@@ -428,7 +460,7 @@ http://emoticon.gitx.fun/packages/小林家的龙女仆.zip
 http://emoticon.gitx.fun/packages/干物妹小埋.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 搜索引擎
+### 搜索引擎
 
 `社区文化` `40 张`
 
@@ -444,7 +476,7 @@ http://emoticon.gitx.fun/packages/干物妹小埋.zip
 http://emoticon.gitx.fun/packages/搜索引擎.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 机场
+### 机场
 
 `社区文化` `48 张`
 
@@ -460,7 +492,7 @@ http://emoticon.gitx.fun/packages/搜索引擎.zip
 http://emoticon.gitx.fun/packages/机场.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 熊猫人
+### 熊猫人
 
 `原创人物` `196 张`
 
@@ -476,7 +508,7 @@ http://emoticon.gitx.fun/packages/机场.zip
 http://emoticon.gitx.fun/packages/熊猫人.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 狼与香辛料
+### 狼与香辛料
 
 `动漫` `78 张`
 
@@ -492,7 +524,7 @@ http://emoticon.gitx.fun/packages/熊猫人.zip
 http://emoticon.gitx.fun/packages/狼与香辛料.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 猫女孩
+### 猫女孩
 
 `原创人物` `15 张`
 
@@ -508,7 +540,7 @@ http://emoticon.gitx.fun/packages/狼与香辛料.zip
 http://emoticon.gitx.fun/packages/猫女孩.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 猫狗整合
+### 猫狗整合
 
 `宠物` `107 张`
 
@@ -524,7 +556,7 @@ http://emoticon.gitx.fun/packages/猫女孩.zip
 http://emoticon.gitx.fun/packages/猫狗整合.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 王境泽
+### 王境泽
 
 `公众人物` `61 张`
 
@@ -540,7 +572,7 @@ http://emoticon.gitx.fun/packages/猫狗整合.zip
 http://emoticon.gitx.fun/packages/王境泽.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 白白在吃啥
+### 白白在吃啥
 
 `原创人物` `58 张`
 
@@ -556,7 +588,7 @@ http://emoticon.gitx.fun/packages/王境泽.zip
 http://emoticon.gitx.fun/packages/白白在吃啥.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 神楽七奈
+### 神楽七奈
 
 `虚拟偶像` `109 张`
 
@@ -572,7 +604,7 @@ http://emoticon.gitx.fun/packages/白白在吃啥.zip
 http://emoticon.gitx.fun/packages/神楽七奈.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 神乐魅娅
+### 神乐魅娅
 
 `虚拟偶像` `40 张`
 
@@ -588,7 +620,7 @@ http://emoticon.gitx.fun/packages/神楽七奈.zip
 http://emoticon.gitx.fun/packages/神乐魅娅.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 维基百科滥权
+### 维基百科滥权
 
 `社区文化` `120 张`
 
@@ -604,7 +636,7 @@ http://emoticon.gitx.fun/packages/神乐魅娅.zip
 http://emoticon.gitx.fun/packages/维基百科滥权.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 贴吧大表情
+### 贴吧大表情
 
 `社区文化` `93 张`
 
@@ -620,7 +652,7 @@ http://emoticon.gitx.fun/packages/维基百科滥权.zip
 http://emoticon.gitx.fun/packages/贴吧大表情.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 酷安小表情
+### 酷安小表情
 
 `社区文化` `363 张`
 
@@ -636,7 +668,7 @@ http://emoticon.gitx.fun/packages/贴吧大表情.zip
 http://emoticon.gitx.fun/packages/酷安小表情.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 干嘛鸭
+### 干嘛鸭
 
 `原创人物` `55 张`
 
@@ -652,7 +684,7 @@ http://emoticon.gitx.fun/packages/酷安小表情.zip
 http://emoticon.gitx.fun/packages/干嘛鸭.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 猥琐萌
+### 猥琐萌
 
 `原创人物` `158 张`
 
@@ -668,7 +700,7 @@ http://emoticon.gitx.fun/packages/干嘛鸭.zip
 http://emoticon.gitx.fun/packages/猥琐萌.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 七濑胡桃
+### 七濑胡桃
 
 `原创人物` `120 张`
 
@@ -684,7 +716,7 @@ http://emoticon.gitx.fun/packages/猥琐萌.zip
 http://emoticon.gitx.fun/packages/七濑胡桃.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 仓鼠
+### 仓鼠
 
 `原创人物` `99 张`
 
@@ -700,7 +732,7 @@ http://emoticon.gitx.fun/packages/七濑胡桃.zip
 http://emoticon.gitx.fun/packages/仓鼠.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 涂鸦 Emoji
+### 涂鸦 Emoji
 
 `原创人物` `25 张`
 
@@ -716,7 +748,7 @@ http://emoticon.gitx.fun/packages/仓鼠.zip
 http://emoticon.gitx.fun/packages/涂鸦%20Emoji.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 呆萌小人
+### 呆萌小人
 
 `原创人物` `58 张`
 
@@ -732,7 +764,7 @@ http://emoticon.gitx.fun/packages/涂鸦%20Emoji.zip
 http://emoticon.gitx.fun/packages/呆萌小人.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 假笑男孩
+### 假笑男孩
 
 `公众人物` `104 张`
 
@@ -748,7 +780,7 @@ http://emoticon.gitx.fun/packages/呆萌小人.zip
 http://emoticon.gitx.fun/packages/假笑男孩.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 商业头盔
+### 商业头盔
 
 `原创人物` `144 张`
 
@@ -764,7 +796,7 @@ http://emoticon.gitx.fun/packages/假笑男孩.zip
 http://emoticon.gitx.fun/packages/商业头盔.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 嗷大喵
+### 嗷大喵
 
 `漫画` `40 张`
 
@@ -780,7 +812,7 @@ http://emoticon.gitx.fun/packages/商业头盔.zip
 http://emoticon.gitx.fun/packages/嗷大喵.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 嘤嘤怪
+### 嘤嘤怪
 
 `原创人物` `99 张`
 
@@ -796,7 +828,7 @@ http://emoticon.gitx.fun/packages/嗷大喵.zip
 http://emoticon.gitx.fun/packages/嘤嘤怪.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 微博小表情
+### 微博小表情
 
 `原创人物` `113 张`
 
@@ -812,7 +844,7 @@ http://emoticon.gitx.fun/packages/嘤嘤怪.zip
 http://emoticon.gitx.fun/packages/微博小表情.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 突然 XX
+### 突然 XX
 
 `原创人物` `60 张`
 
@@ -828,7 +860,7 @@ http://emoticon.gitx.fun/packages/微博小表情.zip
 http://emoticon.gitx.fun/packages/突然%20XX.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Doge
+### Doge
 
 `原创人物` `42 张`
 
@@ -844,7 +876,7 @@ Doge 的原型为一只柴犬（我可能是在写废话），在国内国外这
 http://emoticon.gitx.fun/packages/Doge.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 七濑胡桃汉化
+### 七濑胡桃汉化
 
 `原创人物` `121 张`
 
@@ -860,7 +892,7 @@ http://emoticon.gitx.fun/packages/Doge.zip
 http://emoticon.gitx.fun/packages/七濑胡桃汉化.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 冷兔大表情
+### 冷兔大表情
 
 `原创人物` `48 张`
 
@@ -876,7 +908,7 @@ http://emoticon.gitx.fun/packages/七濑胡桃汉化.zip
 http://emoticon.gitx.fun/packages/冷兔大表情.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 可你也不能
+### 可你也不能
 
 `原创人物` `48 张`
 
@@ -892,7 +924,7 @@ http://emoticon.gitx.fun/packages/冷兔大表情.zip
 http://emoticon.gitx.fun/packages/可你也不能.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小坏坏
+### 小坏坏
 
 `原创人物` `58 张`
 
@@ -908,7 +940,7 @@ http://emoticon.gitx.fun/packages/可你也不能.zip
 http://emoticon.gitx.fun/packages/小坏坏.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 小婳
+### 小婳
 
 `公众人物` `58 张`
 
@@ -924,7 +956,7 @@ http://emoticon.gitx.fun/packages/小坏坏.zip
 http://emoticon.gitx.fun/packages/小婳.zip
 ```
 
-### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 披被子的滑稽
+### 披被子的滑稽
 
 `原创人物` `58 张`
 
