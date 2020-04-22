@@ -11,6 +11,22 @@
 
 ## 表情包列表
 
+### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 兔子
+
+`原创人物` `29 张`
+
+兔子指人系列，来源于万能的 Google 搜索。
+
+| 001 | 002 | 003 | 004 | 005 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![image](http://emoticon.gitx.fun/packages/兔子/001.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/002.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/003.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/004.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/005.jpg) |
+
+#### 表情包下载
+
+```text
+https://emoticon.gitx.fun/packages/兔子.zip
+```
+
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 和泉纱雾
 
 `动漫` `211 张`
