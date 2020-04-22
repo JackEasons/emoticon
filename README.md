@@ -35,7 +35,7 @@ https://emoticon.gitx.fun/packages/和泉纱雾.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/001.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/002.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/003.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/004.png) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/005.png) |
+| ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/001.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/002.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/003.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/004.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/005.jpg) |
 
 #### 表情包下载
 
