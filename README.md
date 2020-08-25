@@ -7,7 +7,7 @@
 
 网络表情数据包储存库，您可以通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF)  加入 QQ 群组（千人群，目前人数 580+）。欢迎在 [GitHub](https://github.com/kallydev/emoticon) 参与协作。
 
-> 您可以通过 [**下载客户端**](https://emoticon.gitx.fun/#客户端下载) 在多个社交软件中快捷的发送表情。
+> 您可以通过 [**下载客户端**](https://emoticon.kallydev.com/#客户端下载) 在多个社交软件中快捷的发送表情。
 
 ## 表情包列表
 
@@ -19,12 +19,12 @@
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/兔子/001.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/002.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/003.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/004.jpg) | ![image](http://emoticon.gitx.fun/packages/兔子/005.jpg) |
+| ![image](https://emoticon.kallydev.com/packages/兔子/001.jpg) | ![image](https://emoticon.kallydev.com/packages/兔子/002.jpg) | ![image](https://emoticon.kallydev.com/packages/兔子/003.jpg) | ![image](https://emoticon.kallydev.com/packages/兔子/004.jpg) | ![image](https://emoticon.kallydev.com/packages/兔子/005.jpg) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/兔子.zip
+https://emoticon.kallydev.com/packages/兔子.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 和泉纱雾
@@ -35,12 +35,12 @@ https://emoticon.gitx.fun/packages/兔子.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/和泉纱雾/001.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/002.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/003.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/004.png) | ![image](http://emoticon.gitx.fun/packages/和泉纱雾/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/和泉纱雾/001.png) | ![image](https://emoticon.kallydev.com/packages/和泉纱雾/002.png) | ![image](https://emoticon.kallydev.com/packages/和泉纱雾/003.png) | ![image](https://emoticon.kallydev.com/packages/和泉纱雾/004.png) | ![image](https://emoticon.kallydev.com/packages/和泉纱雾/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/和泉纱雾.zip
+https://emoticon.kallydev.com/packages/和泉纱雾.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 草莓果酱
@@ -51,12 +51,12 @@ https://emoticon.gitx.fun/packages/和泉纱雾.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/草莓果酱/001.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/002.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/003.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/004.png) | ![image](http://emoticon.gitx.fun/packages/草莓果酱/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/草莓果酱/001.png) | ![image](https://emoticon.kallydev.com/packages/草莓果酱/002.png) | ![image](https://emoticon.kallydev.com/packages/草莓果酱/003.png) | ![image](https://emoticon.kallydev.com/packages/草莓果酱/004.png) | ![image](https://emoticon.kallydev.com/packages/草莓果酱/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/草莓果酱.zip
+https://emoticon.kallydev.com/packages/草莓果酱.zip
 ```
 
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 巴啦啦能量
@@ -67,12 +67,12 @@ https://emoticon.gitx.fun/packages/草莓果酱.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/001.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/002.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/003.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/004.jpg) | ![image](http://emoticon.gitx.fun/packages/巴啦啦能量/005.jpg) |
+| ![image](https://emoticon.kallydev.com/packages/巴啦啦能量/001.jpg) | ![image](https://emoticon.kallydev.com/packages/巴啦啦能量/002.jpg) | ![image](https://emoticon.kallydev.com/packages/巴啦啦能量/003.jpg) | ![image](https://emoticon.kallydev.com/packages/巴啦啦能量/004.jpg) | ![image](https://emoticon.kallydev.com/packages/巴啦啦能量/005.jpg) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/巴啦啦能量.zip
+https://emoticon.kallydev.com/packages/巴啦啦能量.zip
 ```
 
 ### 2233 娘
@@ -83,12 +83,12 @@ B 站的 2233 娘，俩姐妹 。具体见 [Bilibili 娘 - 萌娘百科](https:/
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/2233%20娘/001.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/002.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/003.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/004.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/2233%20娘/001.png) | ![image](https://emoticon.kallydev.com/packages/2233%20娘/002.png) | ![image](https://emoticon.kallydev.com/packages/2233%20娘/003.png) | ![image](https://emoticon.kallydev.com/packages/2233%20娘/004.png) | ![image](https://emoticon.kallydev.com/packages/2233%20娘/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/2233%20娘.zip
+https://emoticon.kallydev.com/packages/2233%20娘.zip
 ```
 
 ### 咸鱼
@@ -99,12 +99,12 @@ https://emoticon.gitx.fun/packages/2233%20娘.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/咸鱼/001.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/002.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/003.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/004.png) | ![image](http://emoticon.gitx.fun/packages/咸鱼/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/咸鱼/001.png) | ![image](https://emoticon.kallydev.com/packages/咸鱼/002.png) | ![image](https://emoticon.kallydev.com/packages/咸鱼/003.png) | ![image](https://emoticon.kallydev.com/packages/咸鱼/004.png) | ![image](https://emoticon.kallydev.com/packages/咸鱼/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/咸鱼.zip
+https://emoticon.kallydev.com/packages/咸鱼.zip
 ```
 
 ### 安排得明明白白
@@ -115,12 +115,12 @@ https://emoticon.gitx.fun/packages/咸鱼.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/安排得明明白白/001.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/002.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/003.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/004.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/安排得明明白白/001.png) | ![image](https://emoticon.kallydev.com/packages/安排得明明白白/002.png) | ![image](https://emoticon.kallydev.com/packages/安排得明明白白/003.png) | ![image](https://emoticon.kallydev.com/packages/安排得明明白白/004.png) | ![image](https://emoticon.kallydev.com/packages/安排得明明白白/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/安排得明明白白.zip
+https://emoticon.kallydev.com/packages/安排得明明白白.zip
 ```
 
 ### 被采访的人
@@ -131,12 +131,12 @@ https://emoticon.gitx.fun/packages/安排得明明白白.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/被采访的人/001.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/002.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/003.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/004.png) | ![image](http://emoticon.gitx.fun/packages/被采访的人/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/被采访的人/001.png) | ![image](https://emoticon.kallydev.com/packages/被采访的人/002.png) | ![image](https://emoticon.kallydev.com/packages/被采访的人/003.png) | ![image](https://emoticon.kallydev.com/packages/被采访的人/004.png) | ![image](https://emoticon.kallydev.com/packages/被采访的人/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/被采访的人.zip
+https://emoticon.kallydev.com/packages/被采访的人.zip
 ```
 
 ### 哔哩哔哩大表情
@@ -147,12 +147,12 @@ https://emoticon.gitx.fun/packages/被采访的人.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/001.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/002.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/003.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/004.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩大表情/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/哔哩哔哩大表情/001.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩大表情/002.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩大表情/003.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩大表情/004.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩大表情/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/哔哩哔哩大表情.zip
+https://emoticon.kallydev.com/packages/哔哩哔哩大表情.zip
 ```
 
 ### 哔哩哔哩小电视
@@ -163,12 +163,12 @@ https://emoticon.gitx.fun/packages/哔哩哔哩大表情.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/001.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/002.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/003.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/004.png) | ![image](http://emoticon.gitx.fun/packages/哔哩哔哩小电视/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/哔哩哔哩小电视/001.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩小电视/002.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩小电视/003.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩小电视/004.png) | ![image](https://emoticon.kallydev.com/packages/哔哩哔哩小电视/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/哔哩哔哩小电视.zip
+https://emoticon.kallydev.com/packages/哔哩哔哩小电视.zip
 ```
 
 ### 聊不来
@@ -179,12 +179,12 @@ https://emoticon.gitx.fun/packages/哔哩哔哩小电视.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/聊不来/001.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/002.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/003.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/004.png) | ![image](http://emoticon.gitx.fun/packages/聊不来/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/聊不来/001.png) | ![image](https://emoticon.kallydev.com/packages/聊不来/002.png) | ![image](https://emoticon.kallydev.com/packages/聊不来/003.png) | ![image](https://emoticon.kallydev.com/packages/聊不来/004.png) | ![image](https://emoticon.kallydev.com/packages/聊不来/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/聊不来.zip
+https://emoticon.kallydev.com/packages/聊不来.zip
 ```
 
 ### 三连
@@ -195,12 +195,12 @@ https://emoticon.gitx.fun/packages/聊不来.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/三连/001.png) | ![image](http://emoticon.gitx.fun/packages/三连/002.png) | ![image](http://emoticon.gitx.fun/packages/三连/003.png) | ![image](http://emoticon.gitx.fun/packages/三连/004.png) | ![image](http://emoticon.gitx.fun/packages/三连/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/三连/001.png) | ![image](https://emoticon.kallydev.com/packages/三连/002.png) | ![image](https://emoticon.kallydev.com/packages/三连/003.png) | ![image](https://emoticon.kallydev.com/packages/三连/004.png) | ![image](https://emoticon.kallydev.com/packages/三连/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/三连.zip
+https://emoticon.kallydev.com/packages/三连.zip
 ```
 
 ### 邻家索菲
@@ -211,12 +211,12 @@ https://emoticon.gitx.fun/packages/三连.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/邻家索菲/001.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/002.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/003.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/004.png) | ![image](http://emoticon.gitx.fun/packages/邻家索菲/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/邻家索菲/001.png) | ![image](https://emoticon.kallydev.com/packages/邻家索菲/002.png) | ![image](https://emoticon.kallydev.com/packages/邻家索菲/003.png) | ![image](https://emoticon.kallydev.com/packages/邻家索菲/004.png) | ![image](https://emoticon.kallydev.com/packages/邻家索菲/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/邻家索菲.zip
+https://emoticon.kallydev.com/packages/邻家索菲.zip
 ```
 
 ### ARU
@@ -227,12 +227,12 @@ ARU 表情包中文名为阿鲁，原作者为 [\_SiC\_ - 新浪微博](https://
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/ARU/001.png) | ![image](http://emoticon.gitx.fun/packages/ARU/002.png) | ![image](http://emoticon.gitx.fun/packages/ARU/003.png) | ![image](http://emoticon.gitx.fun/packages/ARU/004.png) | ![image](http://emoticon.gitx.fun/packages/ARU/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/ARU/001.png) | ![image](https://emoticon.kallydev.com/packages/ARU/002.png) | ![image](https://emoticon.kallydev.com/packages/ARU/003.png) | ![image](https://emoticon.kallydev.com/packages/ARU/004.png) | ![image](https://emoticon.kallydev.com/packages/ARU/005.png) |
 
 #### 表情包下载
 
 ```text
-https://emoticon.gitx.fun/packages/ARU.zip
+https://emoticon.kallydev.com/packages/ARU.zip
 ```
 
 ### GNU Linux
@@ -243,12 +243,12 @@ Geek 爱好者必备表情包之一，[GNU - 官网](https://www.gnu.org/) 为�
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/GNU%20Linux/001.png) | ![image](http://emoticon.gitx.fun/packages/GNU%20Linux/002.png) | ![image](http://emoticon.gitx.fun/packages/GNU%20Linux/003.png) | ![image](http://emoticon.gitx.fun/packages/GNU%20Linux/004.png) | ![image](http://emoticon.gitx.fun/packages/GNU%20Linux/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/GNU%20Linux/001.png) | ![image](https://emoticon.kallydev.com/packages/GNU%20Linux/002.png) | ![image](https://emoticon.kallydev.com/packages/GNU%20Linux/003.png) | ![image](https://emoticon.kallydev.com/packages/GNU%20Linux/004.png) | ![image](https://emoticon.kallydev.com/packages/GNU%20Linux/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/GNU%20Linux.zip
+https://emoticon.kallydev.com/packages/GNU%20Linux.zip
 ```
 
 ### ISLAND
@@ -259,12 +259,12 @@ ISLAND 是一款 AVG 游戏，有漫画及动画泛生作品，可以前往 [ISL
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/ISLAND/001.png) | ![image](http://emoticon.gitx.fun/packages/ISLAND/002.png) | ![image](http://emoticon.gitx.fun/packages/ISLAND/003.png) | ![image](http://emoticon.gitx.fun/packages/ISLAND/004.png) | ![image](http://emoticon.gitx.fun/packages/ISLAND/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/ISLAND/001.png) | ![image](https://emoticon.kallydev.com/packages/ISLAND/002.png) | ![image](https://emoticon.kallydev.com/packages/ISLAND/003.png) | ![image](https://emoticon.kallydev.com/packages/ISLAND/004.png) | ![image](https://emoticon.kallydev.com/packages/ISLAND/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/ISLAND.zip
+https://emoticon.kallydev.com/packages/ISLAND.zip
 ```
 
 ### JK 制服
@@ -275,12 +275,12 @@ http://emoticon.gitx.fun/packages/ISLAND.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/JK%20制服/001.png) | ![image](http://emoticon.gitx.fun/packages/JK%20制服/002.png) | ![image](http://emoticon.gitx.fun/packages/JK%20制服/003.png) | ![image](http://emoticon.gitx.fun/packages/JK%20制服/004.png) | ![image](http://emoticon.gitx.fun/packages/JK%20制服/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/JK%20制服/001.png) | ![image](https://emoticon.kallydev.com/packages/JK%20制服/002.png) | ![image](https://emoticon.kallydev.com/packages/JK%20制服/003.png) | ![image](https://emoticon.kallydev.com/packages/JK%20制服/004.png) | ![image](https://emoticon.kallydev.com/packages/JK%20制服/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/JK%20制服.zip
+https://emoticon.kallydev.com/packages/JK%20制服.zip
 ```
 
 ### 别当欧尼酱了
@@ -291,12 +291,12 @@ http://emoticon.gitx.fun/packages/JK%20制服.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/001.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/002.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/003.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/004.png) | ![image](http://emoticon.gitx.fun/packages/别当欧尼酱了/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/别当欧尼酱了/001.png) | ![image](https://emoticon.kallydev.com/packages/别当欧尼酱了/002.png) | ![image](https://emoticon.kallydev.com/packages/别当欧尼酱了/003.png) | ![image](https://emoticon.kallydev.com/packages/别当欧尼酱了/004.png) | ![image](https://emoticon.kallydev.com/packages/别当欧尼酱了/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/别当欧尼酱了.zip
+https://emoticon.kallydev.com/packages/别当欧尼酱了.zip
 ```
 
 ### Python 中文
@@ -307,12 +307,12 @@ http://emoticon.gitx.fun/packages/别当欧尼酱了.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/Python%20中文/001.png) | ![image](http://emoticon.gitx.fun/packages/Python%20中文/002.png) | ![image](http://emoticon.gitx.fun/packages/Python%20中文/003.png) | ![image](http://emoticon.gitx.fun/packages/Python%20中文/004.png) | ![image](http://emoticon.gitx.fun/packages/Python%20中文/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/Python%20中文/001.png) | ![image](https://emoticon.kallydev.com/packages/Python%20中文/002.png) | ![image](https://emoticon.kallydev.com/packages/Python%20中文/003.png) | ![image](https://emoticon.kallydev.com/packages/Python%20中文/004.png) | ![image](https://emoticon.kallydev.com/packages/Python%20中文/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/Python%20中文.zip
+https://emoticon.kallydev.com/packages/Python%20中文.zip
 ```
 
 ### V2 日常
@@ -323,12 +323,12 @@ http://emoticon.gitx.fun/packages/Python%20中文.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/V2%20日常/001.png) | ![image](http://emoticon.gitx.fun/packages/V2%20日常/002.png) | ![image](http://emoticon.gitx.fun/packages/V2%20日常/003.png) | ![image](http://emoticon.gitx.fun/packages/V2%20日常/004.png) | ![image](http://emoticon.gitx.fun/packages/V2%20日常/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/V2%20日常/001.png) | ![image](https://emoticon.kallydev.com/packages/V2%20日常/002.png) | ![image](https://emoticon.kallydev.com/packages/V2%20日常/003.png) | ![image](https://emoticon.kallydev.com/packages/V2%20日常/004.png) | ![image](https://emoticon.kallydev.com/packages/V2%20日常/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/V2%20日常.zip
+https://emoticon.kallydev.com/packages/V2%20日常.zip
 ```
 
 ### 七濑胡桃 Q 版
@@ -339,12 +339,12 @@ http://emoticon.gitx.fun/packages/V2%20日常.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版/001.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版/002.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版/003.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版/004.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/七濑胡桃%20Q%20版/001.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃%20Q%20版/002.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃%20Q%20版/003.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃%20Q%20版/004.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃%20Q%20版/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版.zip
+https://emoticon.kallydev.com/packages/七濑胡桃%20Q%20版.zip
 ```
 
 ### 乖宝宝
@@ -355,12 +355,12 @@ http://emoticon.gitx.fun/packages/七濑胡桃%20Q%20版.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/乖宝宝/001.png) | ![image](http://emoticon.gitx.fun/packages/乖宝宝/002.png) | ![image](http://emoticon.gitx.fun/packages/乖宝宝/003.png) | ![image](http://emoticon.gitx.fun/packages/乖宝宝/004.png) | ![image](http://emoticon.gitx.fun/packages/乖宝宝/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/乖宝宝/001.png) | ![image](https://emoticon.kallydev.com/packages/乖宝宝/002.png) | ![image](https://emoticon.kallydev.com/packages/乖宝宝/003.png) | ![image](https://emoticon.kallydev.com/packages/乖宝宝/004.png) | ![image](https://emoticon.kallydev.com/packages/乖宝宝/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/乖宝宝.zip
+https://emoticon.kallydev.com/packages/乖宝宝.zip
 ```
 
 ### 什么时间了
@@ -371,12 +371,12 @@ http://emoticon.gitx.fun/packages/乖宝宝.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/什么时间了/001.png) | ![image](http://emoticon.gitx.fun/packages/什么时间了/002.png) | ![image](http://emoticon.gitx.fun/packages/什么时间了/003.png) | ![image](http://emoticon.gitx.fun/packages/什么时间了/004.png) | ![image](http://emoticon.gitx.fun/packages/什么时间了/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/什么时间了/001.png) | ![image](https://emoticon.kallydev.com/packages/什么时间了/002.png) | ![image](https://emoticon.kallydev.com/packages/什么时间了/003.png) | ![image](https://emoticon.kallydev.com/packages/什么时间了/004.png) | ![image](https://emoticon.kallydev.com/packages/什么时间了/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/什么时间了.zip
+https://emoticon.kallydev.com/packages/什么时间了.zip
 ```
 
 ### 兽耳酱
@@ -387,13 +387,13 @@ http://emoticon.gitx.fun/packages/什么时间了.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/兽耳酱/001.png) | ![image](http://emoticon.gitx.fun/packages/兽耳酱/002.png) | ![image](http://emoticon.gitx.fun/packages/兽耳酱/003.png) | ![image](http://emoticon.gitx.fun/packages/兽耳酱/004.png) | ![image](http://emoticon.gitx.fun/packages/兽耳酱/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/兽耳酱/001.png) | ![image](https://emoticon.kallydev.com/packages/兽耳酱/002.png) | ![image](https://emoticon.kallydev.com/packages/兽耳酱/003.png) | ![image](https://emoticon.kallydev.com/packages/兽耳酱/004.png) | ![image](https://emoticon.kallydev.com/packages/兽耳酱/005.png) |
 
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/兽耳酱.zip
+https://emoticon.kallydev.com/packages/兽耳酱.zip
 ```
 
 ### 刷机信仰
@@ -404,12 +404,12 @@ http://emoticon.gitx.fun/packages/兽耳酱.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/刷机信仰/001.png) | ![image](http://emoticon.gitx.fun/packages/刷机信仰/002.png) | ![image](http://emoticon.gitx.fun/packages/刷机信仰/003.png) | ![image](http://emoticon.gitx.fun/packages/刷机信仰/004.png) | ![image](http://emoticon.gitx.fun/packages/刷机信仰/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/刷机信仰/001.png) | ![image](https://emoticon.kallydev.com/packages/刷机信仰/002.png) | ![image](https://emoticon.kallydev.com/packages/刷机信仰/003.png) | ![image](https://emoticon.kallydev.com/packages/刷机信仰/004.png) | ![image](https://emoticon.kallydev.com/packages/刷机信仰/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/刷机信仰.zip
+https://emoticon.kallydev.com/packages/刷机信仰.zip
 ```
 
 ### 古明地觉
@@ -420,12 +420,12 @@ http://emoticon.gitx.fun/packages/刷机信仰.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/古明地觉/001.png) | ![image](http://emoticon.gitx.fun/packages/古明地觉/002.png) | ![image](http://emoticon.gitx.fun/packages/古明地觉/003.png) | ![image](http://emoticon.gitx.fun/packages/古明地觉/004.png) | ![image](http://emoticon.gitx.fun/packages/古明地觉/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/古明地觉/001.png) | ![image](https://emoticon.kallydev.com/packages/古明地觉/002.png) | ![image](https://emoticon.kallydev.com/packages/古明地觉/003.png) | ![image](https://emoticon.kallydev.com/packages/古明地觉/004.png) | ![image](https://emoticon.kallydev.com/packages/古明地觉/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/古明地觉.zip
+https://emoticon.kallydev.com/packages/古明地觉.zip
 ```
 
 ### 天使降临到了我的身边
@@ -436,12 +436,12 @@ http://emoticon.gitx.fun/packages/古明地觉.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/天使降临到了我的身边/001.png) | ![image](http://emoticon.gitx.fun/packages/天使降临到了我的身边/002.png) | ![image](http://emoticon.gitx.fun/packages/天使降临到了我的身边/003.png) | ![image](http://emoticon.gitx.fun/packages/天使降临到了我的身边/004.png) | ![image](http://emoticon.gitx.fun/packages/天使降临到了我的身边/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/天使降临到了我的身边/001.png) | ![image](https://emoticon.kallydev.com/packages/天使降临到了我的身边/002.png) | ![image](https://emoticon.kallydev.com/packages/天使降临到了我的身边/003.png) | ![image](https://emoticon.kallydev.com/packages/天使降临到了我的身边/004.png) | ![image](https://emoticon.kallydev.com/packages/天使降临到了我的身边/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/天使降临到了我的身边.zip
+https://emoticon.kallydev.com/packages/天使降临到了我的身边.zip
 ```
 
 ### Bison 仓鼠
@@ -452,12 +452,12 @@ http://emoticon.gitx.fun/packages/天使降临到了我的身边.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/004.png) | ![image](http://emoticon.gitx.fun/packages/Bison%20仓鼠/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/Bison%20仓鼠/001.png) | ![image](https://emoticon.kallydev.com/packages/Bison%20仓鼠/002.png) | ![image](https://emoticon.kallydev.com/packages/Bison%20仓鼠/003.png) | ![image](https://emoticon.kallydev.com/packages/Bison%20仓鼠/004.png) | ![image](https://emoticon.kallydev.com/packages/Bison%20仓鼠/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/Bison%20仓鼠.zip
+https://emoticon.kallydev.com/packages/Bison%20仓鼠.zip
 ```
 
 ### 小林家的龙女仆
@@ -468,12 +468,12 @@ http://emoticon.gitx.fun/packages/Bison%20仓鼠.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/小林家的龙女仆/001.png) | ![image](http://emoticon.gitx.fun/packages/小林家的龙女仆/002.png) | ![image](http://emoticon.gitx.fun/packages/小林家的龙女仆/003.png) | ![image](http://emoticon.gitx.fun/packages/小林家的龙女仆/004.png) | ![image](http://emoticon.gitx.fun/packages/小林家的龙女仆/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/小林家的龙女仆/001.png) | ![image](https://emoticon.kallydev.com/packages/小林家的龙女仆/002.png) | ![image](https://emoticon.kallydev.com/packages/小林家的龙女仆/003.png) | ![image](https://emoticon.kallydev.com/packages/小林家的龙女仆/004.png) | ![image](https://emoticon.kallydev.com/packages/小林家的龙女仆/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/小林家的龙女仆.zip
+https://emoticon.kallydev.com/packages/小林家的龙女仆.zip
 ```
 
 ### 干物妹小埋
@@ -484,12 +484,12 @@ http://emoticon.gitx.fun/packages/小林家的龙女仆.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/干物妹小埋/001.png) | ![image](http://emoticon.gitx.fun/packages/干物妹小埋/002.png) | ![image](http://emoticon.gitx.fun/packages/干物妹小埋/003.png) | ![image](http://emoticon.gitx.fun/packages/干物妹小埋/004.png) | ![image](http://emoticon.gitx.fun/packages/干物妹小埋/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/干物妹小埋/001.png) | ![image](https://emoticon.kallydev.com/packages/干物妹小埋/002.png) | ![image](https://emoticon.kallydev.com/packages/干物妹小埋/003.png) | ![image](https://emoticon.kallydev.com/packages/干物妹小埋/004.png) | ![image](https://emoticon.kallydev.com/packages/干物妹小埋/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/干物妹小埋.zip
+https://emoticon.kallydev.com/packages/干物妹小埋.zip
 ```
 
 ### 搜索引擎
@@ -500,12 +500,12 @@ http://emoticon.gitx.fun/packages/干物妹小埋.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/搜索引擎/001.png) | ![image](http://emoticon.gitx.fun/packages/搜索引擎/002.png) | ![image](http://emoticon.gitx.fun/packages/搜索引擎/003.png) | ![image](http://emoticon.gitx.fun/packages/搜索引擎/004.png) | ![image](http://emoticon.gitx.fun/packages/搜索引擎/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/搜索引擎/001.png) | ![image](https://emoticon.kallydev.com/packages/搜索引擎/002.png) | ![image](https://emoticon.kallydev.com/packages/搜索引擎/003.png) | ![image](https://emoticon.kallydev.com/packages/搜索引擎/004.png) | ![image](https://emoticon.kallydev.com/packages/搜索引擎/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/搜索引擎.zip
+https://emoticon.kallydev.com/packages/搜索引擎.zip
 ```
 
 ### 机场
@@ -516,12 +516,12 @@ http://emoticon.gitx.fun/packages/搜索引擎.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/机场/001.png) | ![image](http://emoticon.gitx.fun/packages/机场/002.png) | ![image](http://emoticon.gitx.fun/packages/机场/003.png) | ![image](http://emoticon.gitx.fun/packages/机场/004.png) | ![image](http://emoticon.gitx.fun/packages/机场/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/机场/001.png) | ![image](https://emoticon.kallydev.com/packages/机场/002.png) | ![image](https://emoticon.kallydev.com/packages/机场/003.png) | ![image](https://emoticon.kallydev.com/packages/机场/004.png) | ![image](https://emoticon.kallydev.com/packages/机场/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/机场.zip
+https://emoticon.kallydev.com/packages/机场.zip
 ```
 
 ### 熊猫人
@@ -532,12 +532,12 @@ http://emoticon.gitx.fun/packages/机场.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/熊猫人/001.png) | ![image](http://emoticon.gitx.fun/packages/熊猫人/002.png) | ![image](http://emoticon.gitx.fun/packages/熊猫人/003.png) | ![image](http://emoticon.gitx.fun/packages/熊猫人/004.png) | ![image](http://emoticon.gitx.fun/packages/熊猫人/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/熊猫人/001.png) | ![image](https://emoticon.kallydev.com/packages/熊猫人/002.png) | ![image](https://emoticon.kallydev.com/packages/熊猫人/003.png) | ![image](https://emoticon.kallydev.com/packages/熊猫人/004.png) | ![image](https://emoticon.kallydev.com/packages/熊猫人/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/熊猫人.zip
+https://emoticon.kallydev.com/packages/熊猫人.zip
 ```
 
 ### 狼与香辛料
@@ -548,12 +548,12 @@ http://emoticon.gitx.fun/packages/熊猫人.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/狼与香辛料/001.png) | ![image](http://emoticon.gitx.fun/packages/狼与香辛料/002.png) | ![image](http://emoticon.gitx.fun/packages/狼与香辛料/003.png) | ![image](http://emoticon.gitx.fun/packages/狼与香辛料/004.png) | ![image](http://emoticon.gitx.fun/packages/狼与香辛料/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/狼与香辛料/001.png) | ![image](https://emoticon.kallydev.com/packages/狼与香辛料/002.png) | ![image](https://emoticon.kallydev.com/packages/狼与香辛料/003.png) | ![image](https://emoticon.kallydev.com/packages/狼与香辛料/004.png) | ![image](https://emoticon.kallydev.com/packages/狼与香辛料/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/狼与香辛料.zip
+https://emoticon.kallydev.com/packages/狼与香辛料.zip
 ```
 
 ### 猫女孩
@@ -564,12 +564,12 @@ http://emoticon.gitx.fun/packages/狼与香辛料.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/猫女孩/001.png) | ![image](http://emoticon.gitx.fun/packages/猫女孩/002.png) | ![image](http://emoticon.gitx.fun/packages/猫女孩/003.png) | ![image](http://emoticon.gitx.fun/packages/猫女孩/004.png) | ![image](http://emoticon.gitx.fun/packages/猫女孩/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/猫女孩/001.png) | ![image](https://emoticon.kallydev.com/packages/猫女孩/002.png) | ![image](https://emoticon.kallydev.com/packages/猫女孩/003.png) | ![image](https://emoticon.kallydev.com/packages/猫女孩/004.png) | ![image](https://emoticon.kallydev.com/packages/猫女孩/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/猫女孩.zip
+https://emoticon.kallydev.com/packages/猫女孩.zip
 ```
 
 ### 猫狗整合
@@ -580,12 +580,12 @@ http://emoticon.gitx.fun/packages/猫女孩.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/猫狗整合/001.png) | ![image](http://emoticon.gitx.fun/packages/猫狗整合/002.png) | ![image](http://emoticon.gitx.fun/packages/猫狗整合/003.png) | ![image](http://emoticon.gitx.fun/packages/猫狗整合/004.png) | ![image](http://emoticon.gitx.fun/packages/猫狗整合/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/猫狗整合/001.png) | ![image](https://emoticon.kallydev.com/packages/猫狗整合/002.png) | ![image](https://emoticon.kallydev.com/packages/猫狗整合/003.png) | ![image](https://emoticon.kallydev.com/packages/猫狗整合/004.png) | ![image](https://emoticon.kallydev.com/packages/猫狗整合/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/猫狗整合.zip
+https://emoticon.kallydev.com/packages/猫狗整合.zip
 ```
 
 ### 王境泽
@@ -596,12 +596,12 @@ http://emoticon.gitx.fun/packages/猫狗整合.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/王境泽/001.png) | ![image](http://emoticon.gitx.fun/packages/王境泽/002.png) | ![image](http://emoticon.gitx.fun/packages/王境泽/003.png) | ![image](http://emoticon.gitx.fun/packages/王境泽/004.png) | ![image](http://emoticon.gitx.fun/packages/王境泽/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/王境泽/001.png) | ![image](https://emoticon.kallydev.com/packages/王境泽/002.png) | ![image](https://emoticon.kallydev.com/packages/王境泽/003.png) | ![image](https://emoticon.kallydev.com/packages/王境泽/004.png) | ![image](https://emoticon.kallydev.com/packages/王境泽/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/王境泽.zip
+https://emoticon.kallydev.com/packages/王境泽.zip
 ```
 
 ### 白白在吃啥
@@ -612,12 +612,12 @@ http://emoticon.gitx.fun/packages/王境泽.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/白白在吃啥/001.png) | ![image](http://emoticon.gitx.fun/packages/白白在吃啥/002.png) | ![image](http://emoticon.gitx.fun/packages/白白在吃啥/003.png) | ![image](http://emoticon.gitx.fun/packages/白白在吃啥/004.png) | ![image](http://emoticon.gitx.fun/packages/白白在吃啥/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/白白在吃啥/001.png) | ![image](https://emoticon.kallydev.com/packages/白白在吃啥/002.png) | ![image](https://emoticon.kallydev.com/packages/白白在吃啥/003.png) | ![image](https://emoticon.kallydev.com/packages/白白在吃啥/004.png) | ![image](https://emoticon.kallydev.com/packages/白白在吃啥/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/白白在吃啥.zip
+https://emoticon.kallydev.com/packages/白白在吃啥.zip
 ```
 
 ### 神楽七奈
@@ -628,12 +628,12 @@ http://emoticon.gitx.fun/packages/白白在吃啥.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/神楽七奈/001.png) | ![image](http://emoticon.gitx.fun/packages/神楽七奈/002.png) | ![image](http://emoticon.gitx.fun/packages/神楽七奈/003.png) | ![image](http://emoticon.gitx.fun/packages/神楽七奈/004.png) | ![image](http://emoticon.gitx.fun/packages/神楽七奈/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/神楽七奈/001.png) | ![image](https://emoticon.kallydev.com/packages/神楽七奈/002.png) | ![image](https://emoticon.kallydev.com/packages/神楽七奈/003.png) | ![image](https://emoticon.kallydev.com/packages/神楽七奈/004.png) | ![image](https://emoticon.kallydev.com/packages/神楽七奈/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/神楽七奈.zip
+https://emoticon.kallydev.com/packages/神楽七奈.zip
 ```
 
 ### 神乐魅娅
@@ -644,12 +644,12 @@ http://emoticon.gitx.fun/packages/神楽七奈.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/神乐魅娅/001.png) | ![image](http://emoticon.gitx.fun/packages/神乐魅娅/002.png) | ![image](http://emoticon.gitx.fun/packages/神乐魅娅/003.png) | ![image](http://emoticon.gitx.fun/packages/神乐魅娅/004.png) | ![image](http://emoticon.gitx.fun/packages/神乐魅娅/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/神乐魅娅/001.png) | ![image](https://emoticon.kallydev.com/packages/神乐魅娅/002.png) | ![image](https://emoticon.kallydev.com/packages/神乐魅娅/003.png) | ![image](https://emoticon.kallydev.com/packages/神乐魅娅/004.png) | ![image](https://emoticon.kallydev.com/packages/神乐魅娅/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/神乐魅娅.zip
+https://emoticon.kallydev.com/packages/神乐魅娅.zip
 ```
 
 ### 维基百科滥权
@@ -660,12 +660,12 @@ http://emoticon.gitx.fun/packages/神乐魅娅.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/维基百科滥权/001.png) | ![image](http://emoticon.gitx.fun/packages/维基百科滥权/002.png) | ![image](http://emoticon.gitx.fun/packages/维基百科滥权/003.png) | ![image](http://emoticon.gitx.fun/packages/维基百科滥权/004.png) | ![image](http://emoticon.gitx.fun/packages/维基百科滥权/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/维基百科滥权/001.png) | ![image](https://emoticon.kallydev.com/packages/维基百科滥权/002.png) | ![image](https://emoticon.kallydev.com/packages/维基百科滥权/003.png) | ![image](https://emoticon.kallydev.com/packages/维基百科滥权/004.png) | ![image](https://emoticon.kallydev.com/packages/维基百科滥权/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/维基百科滥权.zip
+https://emoticon.kallydev.com/packages/维基百科滥权.zip
 ```
 
 ### 贴吧大表情
@@ -676,12 +676,12 @@ http://emoticon.gitx.fun/packages/维基百科滥权.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/贴吧大表情/001.png) | ![image](http://emoticon.gitx.fun/packages/贴吧大表情/002.png) | ![image](http://emoticon.gitx.fun/packages/贴吧大表情/003.png) | ![image](http://emoticon.gitx.fun/packages/贴吧大表情/004.png) | ![image](http://emoticon.gitx.fun/packages/贴吧大表情/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/贴吧大表情/001.png) | ![image](https://emoticon.kallydev.com/packages/贴吧大表情/002.png) | ![image](https://emoticon.kallydev.com/packages/贴吧大表情/003.png) | ![image](https://emoticon.kallydev.com/packages/贴吧大表情/004.png) | ![image](https://emoticon.kallydev.com/packages/贴吧大表情/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/贴吧大表情.zip
+https://emoticon.kallydev.com/packages/贴吧大表情.zip
 ```
 
 ### 酷安小表情
@@ -692,12 +692,12 @@ http://emoticon.gitx.fun/packages/贴吧大表情.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/酷安小表情/001.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/002.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/003.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/004.png) | ![image](http://emoticon.gitx.fun/packages/酷安小表情/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/酷安小表情/001.png) | ![image](https://emoticon.kallydev.com/packages/酷安小表情/002.png) | ![image](https://emoticon.kallydev.com/packages/酷安小表情/003.png) | ![image](https://emoticon.kallydev.com/packages/酷安小表情/004.png) | ![image](https://emoticon.kallydev.com/packages/酷安小表情/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/酷安小表情.zip
+https://emoticon.kallydev.com/packages/酷安小表情.zip
 ```
 
 ### 干嘛鸭
@@ -708,12 +708,12 @@ http://emoticon.gitx.fun/packages/酷安小表情.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/干嘛鸭/001.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/002.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/003.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/004.png) | ![image](http://emoticon.gitx.fun/packages/干嘛鸭/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/干嘛鸭/001.png) | ![image](https://emoticon.kallydev.com/packages/干嘛鸭/002.png) | ![image](https://emoticon.kallydev.com/packages/干嘛鸭/003.png) | ![image](https://emoticon.kallydev.com/packages/干嘛鸭/004.png) | ![image](https://emoticon.kallydev.com/packages/干嘛鸭/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/干嘛鸭.zip
+https://emoticon.kallydev.com/packages/干嘛鸭.zip
 ```
 
 ### 猥琐萌
@@ -724,12 +724,12 @@ http://emoticon.gitx.fun/packages/干嘛鸭.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/猥琐萌/001.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/002.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/003.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/004.png) | ![image](http://emoticon.gitx.fun/packages/猥琐萌/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/猥琐萌/001.png) | ![image](https://emoticon.kallydev.com/packages/猥琐萌/002.png) | ![image](https://emoticon.kallydev.com/packages/猥琐萌/003.png) | ![image](https://emoticon.kallydev.com/packages/猥琐萌/004.png) | ![image](https://emoticon.kallydev.com/packages/猥琐萌/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/猥琐萌.zip
+https://emoticon.kallydev.com/packages/猥琐萌.zip
 ```
 
 ### 七濑胡桃
@@ -740,12 +740,12 @@ http://emoticon.gitx.fun/packages/猥琐萌.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/七濑胡桃/001.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/002.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/003.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/004.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/七濑胡桃/001.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃/002.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃/003.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃/004.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/七濑胡桃.zip
+https://emoticon.kallydev.com/packages/七濑胡桃.zip
 ```
 
 ### 仓鼠
@@ -756,12 +756,12 @@ http://emoticon.gitx.fun/packages/七濑胡桃.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/仓鼠/001.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/002.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/003.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/004.png) | ![image](http://emoticon.gitx.fun/packages/仓鼠/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/仓鼠/001.png) | ![image](https://emoticon.kallydev.com/packages/仓鼠/002.png) | ![image](https://emoticon.kallydev.com/packages/仓鼠/003.png) | ![image](https://emoticon.kallydev.com/packages/仓鼠/004.png) | ![image](https://emoticon.kallydev.com/packages/仓鼠/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/仓鼠.zip
+https://emoticon.kallydev.com/packages/仓鼠.zip
 ```
 
 ### 涂鸦 Emoji
@@ -772,12 +772,12 @@ http://emoticon.gitx.fun/packages/仓鼠.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/001.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/002.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/003.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/004.png) | ![image](http://emoticon.gitx.fun/packages/涂鸦%20Emoji/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/涂鸦%20Emoji/001.png) | ![image](https://emoticon.kallydev.com/packages/涂鸦%20Emoji/002.png) | ![image](https://emoticon.kallydev.com/packages/涂鸦%20Emoji/003.png) | ![image](https://emoticon.kallydev.com/packages/涂鸦%20Emoji/004.png) | ![image](https://emoticon.kallydev.com/packages/涂鸦%20Emoji/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/涂鸦%20Emoji.zip
+https://emoticon.kallydev.com/packages/涂鸦%20Emoji.zip
 ```
 
 ### 呆萌小人
@@ -788,12 +788,12 @@ http://emoticon.gitx.fun/packages/涂鸦%20Emoji.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/呆萌小人/001.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/002.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/003.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/004.png) | ![image](http://emoticon.gitx.fun/packages/呆萌小人/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/呆萌小人/001.png) | ![image](https://emoticon.kallydev.com/packages/呆萌小人/002.png) | ![image](https://emoticon.kallydev.com/packages/呆萌小人/003.png) | ![image](https://emoticon.kallydev.com/packages/呆萌小人/004.png) | ![image](https://emoticon.kallydev.com/packages/呆萌小人/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/呆萌小人.zip
+https://emoticon.kallydev.com/packages/呆萌小人.zip
 ```
 
 ### 假笑男孩
@@ -804,12 +804,12 @@ http://emoticon.gitx.fun/packages/呆萌小人.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/假笑男孩/001.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/002.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/003.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/004.png) | ![image](http://emoticon.gitx.fun/packages/假笑男孩/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/假笑男孩/001.png) | ![image](https://emoticon.kallydev.com/packages/假笑男孩/002.png) | ![image](https://emoticon.kallydev.com/packages/假笑男孩/003.png) | ![image](https://emoticon.kallydev.com/packages/假笑男孩/004.png) | ![image](https://emoticon.kallydev.com/packages/假笑男孩/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/假笑男孩.zip
+https://emoticon.kallydev.com/packages/假笑男孩.zip
 ```
 
 ### 商业头盔
@@ -820,12 +820,12 @@ http://emoticon.gitx.fun/packages/假笑男孩.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/商业头盔/001.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/002.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/003.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/004.png) | ![image](http://emoticon.gitx.fun/packages/商业头盔/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/商业头盔/001.png) | ![image](https://emoticon.kallydev.com/packages/商业头盔/002.png) | ![image](https://emoticon.kallydev.com/packages/商业头盔/003.png) | ![image](https://emoticon.kallydev.com/packages/商业头盔/004.png) | ![image](https://emoticon.kallydev.com/packages/商业头盔/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/商业头盔.zip
+https://emoticon.kallydev.com/packages/商业头盔.zip
 ```
 
 ### 嗷大喵
@@ -836,12 +836,12 @@ http://emoticon.gitx.fun/packages/商业头盔.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/嗷大喵/001.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/002.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/003.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/004.png) | ![image](http://emoticon.gitx.fun/packages/嗷大喵/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/嗷大喵/001.png) | ![image](https://emoticon.kallydev.com/packages/嗷大喵/002.png) | ![image](https://emoticon.kallydev.com/packages/嗷大喵/003.png) | ![image](https://emoticon.kallydev.com/packages/嗷大喵/004.png) | ![image](https://emoticon.kallydev.com/packages/嗷大喵/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/嗷大喵.zip
+https://emoticon.kallydev.com/packages/嗷大喵.zip
 ```
 
 ### 嘤嘤怪
@@ -852,12 +852,12 @@ http://emoticon.gitx.fun/packages/嗷大喵.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/001.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/002.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/003.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/004.png) | ![image](http://emoticon.gitx.fun/packages/嘤嘤怪/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/嘤嘤怪/001.png) | ![image](https://emoticon.kallydev.com/packages/嘤嘤怪/002.png) | ![image](https://emoticon.kallydev.com/packages/嘤嘤怪/003.png) | ![image](https://emoticon.kallydev.com/packages/嘤嘤怪/004.png) | ![image](https://emoticon.kallydev.com/packages/嘤嘤怪/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/嘤嘤怪.zip
+https://emoticon.kallydev.com/packages/嘤嘤怪.zip
 ```
 
 ### 微博小表情
@@ -868,12 +868,12 @@ http://emoticon.gitx.fun/packages/嘤嘤怪.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/微博小表情/001.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/002.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/003.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/004.png) | ![image](http://emoticon.gitx.fun/packages/微博小表情/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/微博小表情/001.png) | ![image](https://emoticon.kallydev.com/packages/微博小表情/002.png) | ![image](https://emoticon.kallydev.com/packages/微博小表情/003.png) | ![image](https://emoticon.kallydev.com/packages/微博小表情/004.png) | ![image](https://emoticon.kallydev.com/packages/微博小表情/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/微博小表情.zip
+https://emoticon.kallydev.com/packages/微博小表情.zip
 ```
 
 ### 突然 XX
@@ -884,12 +884,12 @@ http://emoticon.gitx.fun/packages/微博小表情.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/突然%20XX/001.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/002.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/003.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/004.png) | ![image](http://emoticon.gitx.fun/packages/突然%20XX/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/突然%20XX/001.png) | ![image](https://emoticon.kallydev.com/packages/突然%20XX/002.png) | ![image](https://emoticon.kallydev.com/packages/突然%20XX/003.png) | ![image](https://emoticon.kallydev.com/packages/突然%20XX/004.png) | ![image](https://emoticon.kallydev.com/packages/突然%20XX/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/突然%20XX.zip
+https://emoticon.kallydev.com/packages/突然%20XX.zip
 ```
 
 ### Doge
@@ -900,12 +900,12 @@ Doge 的原型为一只柴犬（我可能是在写废话），在国内国外这
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/Doge/001.png) | ![image](http://emoticon.gitx.fun/packages/Doge/002.png) | ![image](http://emoticon.gitx.fun/packages/Doge/003.png) | ![image](http://emoticon.gitx.fun/packages/Doge/004.png) | ![image](http://emoticon.gitx.fun/packages/Doge/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/Doge/001.png) | ![image](https://emoticon.kallydev.com/packages/Doge/002.png) | ![image](https://emoticon.kallydev.com/packages/Doge/003.png) | ![image](https://emoticon.kallydev.com/packages/Doge/004.png) | ![image](https://emoticon.kallydev.com/packages/Doge/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/Doge.zip
+https://emoticon.kallydev.com/packages/Doge.zip
 ```
 
 ### 七濑胡桃汉化
@@ -916,12 +916,12 @@ http://emoticon.gitx.fun/packages/Doge.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/001.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/002.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/003.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/004.png) | ![image](http://emoticon.gitx.fun/packages/七濑胡桃汉化/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/七濑胡桃汉化/001.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃汉化/002.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃汉化/003.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃汉化/004.png) | ![image](https://emoticon.kallydev.com/packages/七濑胡桃汉化/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/七濑胡桃汉化.zip
+https://emoticon.kallydev.com/packages/七濑胡桃汉化.zip
 ```
 
 ### 冷兔大表情
@@ -932,12 +932,12 @@ http://emoticon.gitx.fun/packages/七濑胡桃汉化.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/冷兔大表情/001.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/002.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/003.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/004.png) | ![image](http://emoticon.gitx.fun/packages/冷兔大表情/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/冷兔大表情/001.png) | ![image](https://emoticon.kallydev.com/packages/冷兔大表情/002.png) | ![image](https://emoticon.kallydev.com/packages/冷兔大表情/003.png) | ![image](https://emoticon.kallydev.com/packages/冷兔大表情/004.png) | ![image](https://emoticon.kallydev.com/packages/冷兔大表情/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/冷兔大表情.zip
+https://emoticon.kallydev.com/packages/冷兔大表情.zip
 ```
 
 ### 可你也不能
@@ -948,12 +948,12 @@ http://emoticon.gitx.fun/packages/冷兔大表情.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/可你也不能/001.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/002.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/003.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/004.png) | ![image](http://emoticon.gitx.fun/packages/可你也不能/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/可你也不能/001.png) | ![image](https://emoticon.kallydev.com/packages/可你也不能/002.png) | ![image](https://emoticon.kallydev.com/packages/可你也不能/003.png) | ![image](https://emoticon.kallydev.com/packages/可你也不能/004.png) | ![image](https://emoticon.kallydev.com/packages/可你也不能/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/可你也不能.zip
+https://emoticon.kallydev.com/packages/可你也不能.zip
 ```
 
 ### 小坏坏
@@ -964,12 +964,12 @@ http://emoticon.gitx.fun/packages/可你也不能.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/小坏坏/001.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/002.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/003.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/004.png) | ![image](http://emoticon.gitx.fun/packages/小坏坏/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/小坏坏/001.png) | ![image](https://emoticon.kallydev.com/packages/小坏坏/002.png) | ![image](https://emoticon.kallydev.com/packages/小坏坏/003.png) | ![image](https://emoticon.kallydev.com/packages/小坏坏/004.png) | ![image](https://emoticon.kallydev.com/packages/小坏坏/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/小坏坏.zip
+https://emoticon.kallydev.com/packages/小坏坏.zip
 ```
 
 ### 小婳
@@ -980,12 +980,12 @@ http://emoticon.gitx.fun/packages/小坏坏.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/小婳/001.png) | ![image](http://emoticon.gitx.fun/packages/小婳/002.png) | ![image](http://emoticon.gitx.fun/packages/小婳/003.png) | ![image](http://emoticon.gitx.fun/packages/小婳/004.png) | ![image](http://emoticon.gitx.fun/packages/小婳/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/小婳/001.png) | ![image](https://emoticon.kallydev.com/packages/小婳/002.png) | ![image](https://emoticon.kallydev.com/packages/小婳/003.png) | ![image](https://emoticon.kallydev.com/packages/小婳/004.png) | ![image](https://emoticon.kallydev.com/packages/小婳/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/小婳.zip
+https://emoticon.kallydev.com/packages/小婳.zip
 ```
 
 ### 披被子的滑稽
@@ -996,12 +996,12 @@ http://emoticon.gitx.fun/packages/小婳.zip
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/001.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/002.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/003.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/004.png) | ![image](http://emoticon.gitx.fun/packages/披被子的滑稽/005.png) |
+| ![image](https://emoticon.kallydev.com/packages/披被子的滑稽/001.png) | ![image](https://emoticon.kallydev.com/packages/披被子的滑稽/002.png) | ![image](https://emoticon.kallydev.com/packages/披被子的滑稽/003.png) | ![image](https://emoticon.kallydev.com/packages/披被子的滑稽/004.png) | ![image](https://emoticon.kallydev.com/packages/披被子的滑稽/005.png) |
 
 #### 表情包下载
 
 ```text
-http://emoticon.gitx.fun/packages/披被子的滑稽.zip
+https://emoticon.kallydev.com/packages/披被子的滑稽.zip
 ```
 
 ## 客户端下载
@@ -1023,7 +1023,7 @@ MD5 校验 `45ddf978f89b3fcb69d4716a72bd52c4`
 
 ### 客户端截图
 
-![image](http://emoticon.gitx.fun/images/client_1.jpg)
+![image](https://emoticon.kallydev.com/images/client_1.jpg)
 
 ## 参与项目
 
@@ -1045,7 +1045,7 @@ MD5 校验 `45ddf978f89b3fcb69d4716a72bd52c4`
 
 > 别指望这是一个正常的群组，这就是一个沙雕网友斗图聚集地
 
-QQ 莫名抽风降低了群星级，搜不到...已提起申述，暂时请通过 [点击查看二维码](http://emoticon.gitx.fun/images/group_qq.jpg) 加群
+QQ 莫名抽风降低了群星级，搜不到...已提起申述，暂时请通过 [点击查看二维码](https://emoticon.kallydev.com/images/group_qq.jpg) 加群
 
 或者通过 [点击邀请链接](https://jq.qq.com/?_wv=1027&k=5SGYTwF) 方式加群
 
