@@ -672,7 +672,7 @@ https://emoticon.kallydev.com/packages/维基百科滥权.zip
 
 `社区文化` `93 张`
 
-贴吧大表情，由 [pandecheng - 酷安](http://www.coolapk.com/u/531994) 提供并进行无损放大处理。
+贴吧大表情，由 [pandecheng - 酷安](https://www.coolapk.com/u/531994) 提供并进行无损放大处理。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -720,7 +720,7 @@ https://emoticon.kallydev.com/packages/干嘛鸭.zip
 
 `原创人物` `158 张`
 
-来源于 [pandecheng - 酷安](http://www.coolapk.com/u/531994) 收集，在各个社交平台都很火，我也蛮喜欢这个。
+来源于 [pandecheng - 酷安](https://www.coolapk.com/u/531994) 收集，在各个社交平台都很火，我也蛮喜欢这个。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -848,7 +848,7 @@ https://emoticon.kallydev.com/packages/嗷大喵.zip
 
 `原创人物` `99 张`
 
-由 [pandecheng - 酷安](http://www.coolapk.com/u/531994) 高清重制，嘤嘤嘤。
+由 [pandecheng - 酷安](https://www.coolapk.com/u/531994) 高清重制，嘤嘤嘤。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -960,7 +960,7 @@ https://emoticon.kallydev.com/packages/可你也不能.zip
 
 `原创人物` `58 张`
 
-由  [pandecheng - 酷安](http://www.coolapk.com/u/531994) 收集。
+由  [pandecheng - 酷安](https://www.coolapk.com/u/531994) 收集。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -992,7 +992,7 @@ https://emoticon.kallydev.com/packages/小婳.zip
 
 `原创人物` `58 张`
 
-作者 [pandecheng - 酷安](http://www.coolapk.com/u/531994)。
+作者 [pandecheng - 酷安](https://www.coolapk.com/u/531994)。
 
 | 001 | 002 | 003 | 004 | 005 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1068,5 +1068,5 @@ QQ 群号 `146437342` （千人群，已有 400+ 成员）
 
 若有事情需要联系我，您可以通过以下平台。
 
-- 酷安 [KallyDev](http://www.coolapk.com/u/926055)
+- 酷安 [KallyDev](https://www.coolapk.com/u/926055)
 - GitHub [KallyDev](https://github.com/kallydev)
